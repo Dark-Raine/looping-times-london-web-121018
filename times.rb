@@ -1,7 +1,7 @@
 def using_times
-	#your code here
-  7.times do
-    
+amt = 10-3
+  amt.times do
+
     puts "Wingardium Leviosa"
 
   end
